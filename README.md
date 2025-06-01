@@ -119,8 +119,8 @@
   <!-- Contact Section -->
   <section id="contacts" class="py-12 container mx-auto px-4">
     <h3 class="text-3xl mb-8 text-yellow-400">Контакты</h3>
-    <p>Свяжись с нами в Telegram: <a href="https://t.me/твойник" class="text-blue-400 underline">@твойник</a></p>
-    <p>Email: <a href="mailto:freefire@mail.com" class="text-blue-400 underline">freefire@mail.com</a></p>
+    <p>Свяжись с нами в Telegram: <a href="https://t.me/myxamet_ff" class="text-blue-400 underline">tologonov_m</a></p>
+    <p>Email: <a href="mailto:freefire@mail.com" class="text-blue-400 underline">fasterff2021@gmail.com</a></p>
   </section>
 
   <!-- Footer -->
